@@ -1,7 +1,6 @@
 # Hey There👋, I'm [Rohan](https://bio.link/rohan_hari)
 
    
-- 🔭 I’m currently working on Backend Development <br>
 - 📫 How to reach me: rohanhr3452@gmail.com <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
