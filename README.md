@@ -1,7 +1,7 @@
 # Hey There👋, I'm [Rohan](https://bio.link/rohan_hari)
 
    
-- 📫 How to reach me: rohanhr3452@gmail.com <br>
+- 📫 How to reach me: rohanh.hari@gmail.com <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
 - 😇 I'm currently looking for help in Full Stack development <br>
